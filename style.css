@@ -1,0 +1,14 @@
+.droit {
+    text-align: center;
+    width: 55%;
+    padding: 20px;
+    
+}
+html {
+    position: relative;
+    min-height: 100%;
+}
+ 
+.bas{
+    text-align: center;
+}
